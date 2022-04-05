@@ -1,8 +1,10 @@
 # Tetris
 
-The world famous Tetris game with pure JS, HTML &amp; CSS.
+The world famous Tetris game with pure JS, HTML &amp; CSS built by Larprad.
 
 🕹️ https://larprad.github.io/tetris/
+
+My Fork: https://xoltron.github.io/tetris/index.html
 
 ## Context
 
